@@ -1,0 +1,23 @@
+﻿	
+		Viết chương trình mô tả một hàng hóa là hàng thực phẩm trong kho của một
+		siêu thị, có các thuộc tính:
+
+				Mã hàng (không cho phép sửa, không được để rỗng).
+				Tên hàng (không được để rỗng). 
+				Đơn giá (>0).
+				Loại hàng (lưu kho ngắn hạn: rau cải, trái cấy…; lưu kho dài hạn: đồ khô, đồ hộp,…).
+				Mã kho lưu hàng.
+				Ngày sản xuất 
+				Ngày hết hạn (ngày không được để rỗng, ngày hết hạn phải sau ngày sản xuất).
+				Ngày nhập kho.
+				Ngày xuất kho. (ngày không được để rỗng, ngày xuất kho phải sau ngày nhập kho).
+
+		Ràng buộc chặt chẽ các thông tin trên các trường dữ liệu. Nếu dữ liệu không hợp lệ thì gán 
+		giá trị mặc định cho phép tương ứng của trường đó.
+
+		1.2.2. Yêu cầu
+			
+				Nhập hàng hóa vào kho.
+				Hiển thị toàn bộ hàng đã nhập.
+				Hiển thị toàn bộ hàng đã xuất bán.
+				Hiển thị hàng tồn kho.

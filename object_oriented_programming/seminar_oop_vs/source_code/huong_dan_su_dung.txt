@@ -1,0 +1,2 @@
+Một chương trình cơ bản về ứng dụng hướng đối tượng, sử dụng các thư viện đồ họa có sẵn trong C++
+Chương trình chạy tốt trên VS 2019 (file .sln)

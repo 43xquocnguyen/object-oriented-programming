@@ -1,0 +1,87 @@
+﻿  Box.cpp
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\Box.cpp(71,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChuTheoTiengNoi.cpp
+  Date.cpp
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\Date.cpp(202,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DieuKhienMenu.cpp
+  Graphics.cpp
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\Graphics.cpp(23,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\Graphics.cpp(23,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  HangHoa.cpp
+  HangHoaThucPham.cpp
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(50,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(55,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(71,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(76,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(92,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(96,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(112,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(116,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(133,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(137,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(157,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(161,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(173,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(174,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(175,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(176,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HangHoaThucPham.cpp(258,17): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  HoTro.cpp
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(35,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(42,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(51,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(52,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(74,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(87,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(108,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(110,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(136,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(138,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(148,23): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(149,31): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(160,23): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\HoTro.cpp(161,31): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  Menu.cpp
+  QuanLiNhapKho.cpp
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(93,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(98,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(104,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(145,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(196,64): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(203,66): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(209,67): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(233,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(247,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(250,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(257,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(266,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(274,32): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(281,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(304,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(330,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(336,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(340,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(349,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(357,32): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(364,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\QuanLiNhapKho.cpp(317,16): warning C4101: 'arr': unreferenced local variable
+  source.cpp
+  TaoChuChay.cpp
+  ThoiGianThuc.cpp
+  _letBegin.cpp
+  Generating Code...
+D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\source\Date.cpp(230): warning C4715: 'Date::SoSanhHaiNgay': not all control paths return a value
+  LINK : D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\x64\Debug\source.exe not found or not built by the last incremental link; performing full link
+  source.vcxproj -> D:\FileCode\My Source Code\VisualStudioCode\C++\ObjectOrientedProramming\Do_An_OOP (VS 2019)\Source_code\CHUONG TRINH KIEM TRA THUC PHAM\x64\Debug\source.exe

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{c18701bc-12ec-4a76-937b-2334d1d5dcff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuanLi">
+      <UniqueIdentifier>{6164abe8-73e0-41b4-9e6a-d0686057b394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HangHoa">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="NgayThang">
+      <UniqueIdentifier>{92555c66-76f8-41f6-8bb7-7f142945e0fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Help">
+      <UniqueIdentifier>{21fdf0bd-50a6-412c-86bc-de8de9c966fd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="QuanLiNhapKho.cpp">
+      <Filter>QuanLi</Filter>
+    </ClCompile>
+    <ClCompile Include="HangHoa.cpp">
+      <Filter>HangHoa</Filter>
+    </ClCompile>
+    <ClCompile Include="HangHoaThucPham.cpp">
+      <Filter>HangHoa</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
+      <Filter>NgayThang</Filter>
+    </ClCompile>
+    <ClCompile Include="DieuKhienMenu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="ThoiGianThuc.cpp">
+      <Filter>NgayThang</Filter>
+    </ClCompile>
+    <ClCompile Include="HoTro.cpp">
+      <Filter>Help</Filter>
+    </ClCompile>
+    <ClCompile Include="TaoChuChay.cpp">
+      <Filter>Help</Filter>
+    </ClCompile>
+    <ClCompile Include="ChuTheoTiengNoi.cpp">
+      <Filter>Help</Filter>
+    </ClCompile>
+    <ClCompile Include="_letBegin.cpp">
+      <Filter>Help</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HangHoaThucPham.h">
+      <Filter>HangHoa</Filter>
+    </ClInclude>
+    <ClInclude Include="HangHoa.h">
+      <Filter>HangHoa</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="QuanLiNhapKho.h">
+      <Filter>QuanLi</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h">
+      <Filter>NgayThang</Filter>
+    </ClInclude>
+    <ClInclude Include="DieuKhienMenu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ThoiGianThuc.h">
+      <Filter>NgayThang</Filter>
+    </ClInclude>
+    <ClInclude Include="HoTro.h">
+      <Filter>Help</Filter>
+    </ClInclude>
+    <ClInclude Include="TaoChuChay.h">
+      <Filter>Help</Filter>
+    </ClInclude>
+    <ClInclude Include="ChuTheoTiengNoi.h">
+      <Filter>Help</Filter>
+    </ClInclude>
+    <ClInclude Include="_letBegin.h">
+      <Filter>Help</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ThongTinHangHoa.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="testngay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Debai.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="duLieuMenu.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="LoiNoiDau.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
